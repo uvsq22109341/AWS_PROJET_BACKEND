@@ -1,0 +1,5 @@
+{
+  "port": "3900",
+  "adminMiddlewareEnabled": true,
+  "authMiddlewareEnabled": true
+}
